@@ -1,2 +1,2 @@
-# gmrs-landing
-Temporary Landing page for GMRS
+# aflstatsmate-landing
+Temporary Landing page for Stats Mate
